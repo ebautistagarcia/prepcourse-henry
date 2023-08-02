@@ -1,2 +1,1 @@
-# prepcourse-henry
-Este es el correcto documento sobre el preparation course de Henry.
+Este es un prep course sobre como crear un repositorio en git hub y clonarlo en nuestro computador.
